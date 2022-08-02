@@ -1,3 +1,5 @@
+# Desafio de Projeto em Angular - Ecommerce desenvolvido na plataforma de Digital Innovation One, através do Bootcamp Santander FullStack Developer.
+
 # Bookstore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
